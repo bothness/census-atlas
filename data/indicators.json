@@ -723,16 +723,11 @@
         "unit": "All usual residents aged 16 and over in households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS108EW001",
             "name": "Living in a couple",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS108EW001",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS108EW002",
@@ -754,16 +749,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS108EW005",
             "name": "Not living in a couple",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS108EW005",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS108EW006",
@@ -806,16 +796,11 @@
         "unit": "All usual residents aged 16 and over in households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS110EW001",
             "name": "Age 16 to 24",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS110EW001",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS110EW002",
@@ -831,16 +816,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS110EW004",
             "name": "Age 25 to 34",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS110EW004",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS110EW005",
@@ -874,16 +854,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS110EW010",
             "name": "Age 35 to 54",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS110EW010",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS110EW011",
@@ -917,16 +892,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS110EW016",
             "name": "Age 55 to 64",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS110EW016",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS110EW017",
@@ -955,16 +925,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS110EW020",
             "name": "Age 65 to 74",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS110EW020",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS110EW021",
@@ -993,16 +958,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS110EW024",
             "name": "Age 75 and over",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS110EW024",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS110EW025",
@@ -1027,16 +987,11 @@
         "unit": "All households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS111EW001",
             "name": "Age of HRP under 35",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS111EW001",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS111EW002",
@@ -1065,16 +1020,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS111EW005",
             "name": "Age of HRP 35 to 54",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS111EW005",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS111EW006",
@@ -1103,16 +1053,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS111EW009",
             "name": "Age of HRP 55 to 64",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS111EW009",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS111EW010",
@@ -1141,16 +1086,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS111EW013",
             "name": "Age of HRP 65 and over",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS111EW013",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS111EW014",
@@ -1188,16 +1128,11 @@
         "unit": "All usual residents in households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS112EW001",
             "name": "One person household",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS112EW001",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS112EW002",
@@ -1213,16 +1148,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS112EW004",
             "name": "One family only",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS112EW004",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS112EW005",
@@ -1230,16 +1160,11 @@
                 "unit": "Person"
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS112EW006",
                 "name": "Married couple",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS112EW006",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS112EW007",
@@ -1267,16 +1192,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS112EW011",
                 "name": "Same-sex civil partnership couple",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS112EW011",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS112EW012",
@@ -1304,16 +1224,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS112EW016",
                 "name": "Cohabiting couple",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS112EW016",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS112EW017",
@@ -1341,16 +1256,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS112EW021",
                 "name": "Lone parent",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS112EW021",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS112EW022",
@@ -1374,16 +1284,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS112EW025",
             "name": "Other household types",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS112EW025",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS112EW026",
@@ -1426,16 +1331,11 @@
         "unit": "All households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS113EW001",
             "name": "One person household",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS113EW001",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS113EW002",
@@ -1451,16 +1351,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS113EW004",
             "name": "One family only",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS113EW004",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS113EW005",
@@ -1468,16 +1363,11 @@
                 "unit": "Household"
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS113EW006",
                 "name": "Married couple",
                 "unit": "Household",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS113EW006",
-                    "name": "Total",
-                    "unit": "Household"
-                  },
                   {
                     "type": "radio",
                     "code": "QS113EW007",
@@ -1505,16 +1395,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS113EW011",
                 "name": "Same-sex civil partnership couple",
                 "unit": "Household",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS113EW011",
-                    "name": "Total",
-                    "unit": "Household"
-                  },
                   {
                     "type": "radio",
                     "code": "QS113EW012",
@@ -1542,16 +1427,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS113EW016",
                 "name": "Cohabiting couple",
                 "unit": "Household",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS113EW016",
-                    "name": "Total",
-                    "unit": "Household"
-                  },
                   {
                     "type": "radio",
                     "code": "QS113EW017",
@@ -1579,16 +1459,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS113EW021",
                 "name": "Lone parent",
                 "unit": "Household",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS113EW021",
-                    "name": "Total",
-                    "unit": "Household"
-                  },
                   {
                     "type": "radio",
                     "code": "QS113EW022",
@@ -1612,16 +1487,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS113EW025",
             "name": "Other household types",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS113EW025",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS113EW026",
@@ -1664,16 +1534,11 @@
         "unit": "All usual residents in households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS114EW001",
             "name": "One person household",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS114EW001",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS114EW002",
@@ -1689,16 +1554,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS114EW004",
             "name": "Other households",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS114EW004",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS114EW005",
@@ -1753,16 +1613,11 @@
         "unit": "All households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS115EW001",
             "name": "One person household",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS115EW001",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS115EW002",
@@ -1778,16 +1633,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS115EW004",
             "name": "Other households",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS115EW004",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS115EW005",
@@ -2296,27 +2146,17 @@
         "unit": "All usual residents",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS203EW0002",
             "name": "Europe",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS203EW0002",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0003",
                 "name": "United Kingdom",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0003",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0004",
@@ -2386,31 +2226,19 @@
                 "unit": "Person"
               },
               {
-                "type": "group",
+                "type": "radio",
+                "code": "QS203EW0015",
                 "name": "Other Europe",
-                "unit": "Person",
-                "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0015",
-                    "name": "Total",
-                    "unit": "Person"
-                  }
-                ]
+                "unit": "Person"
               }
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS203EW0032",
             "name": "Africa",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS203EW0032",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS203EW0033",
@@ -2418,16 +2246,11 @@
                 "unit": "Person"
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0034",
                 "name": "Central and Western Africa",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0034",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0035",
@@ -2449,16 +2272,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0038",
                 "name": "South and Eastern Africa",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0038",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0039",
@@ -2500,27 +2318,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS203EW0045",
             "name": "Middle East and Asia",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS203EW0045",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0046",
                 "name": "Middle East",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0046",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0047",
@@ -2536,16 +2344,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0049",
                 "name": "Eastern Asia",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0049",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0050",
@@ -2567,16 +2370,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0053",
                 "name": "Southern Asia",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0053",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0054",
@@ -2610,16 +2408,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0059",
                 "name": "South-East Asia",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0059",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0060",
@@ -2643,27 +2436,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS203EW0063",
             "name": "The Americas and the Caribbean",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS203EW0063",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0064",
                 "name": "North America",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0064",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0065",
@@ -2691,16 +2474,11 @@
                 "unit": "Person"
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0069",
                 "name": "The Caribbean",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0069",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0070",
@@ -2718,16 +2496,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS203EW0072",
             "name": "Antarctica and Oceania",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS203EW0072",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS203EW0073",
@@ -2735,16 +2508,11 @@
                 "unit": "Person"
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS203EW0074",
                 "name": "Australasia",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS203EW0074",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS203EW0075",
@@ -2800,16 +2568,11 @@
             "unit": "Person"
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0004",
             "name": "Other UK language",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0004",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0005",
@@ -2873,16 +2636,11 @@
             "unit": "Person"
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0015",
             "name": "Other European Language (EU)",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0015",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0016",
@@ -3000,16 +2758,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0035",
             "name": "Other European Language (non EU)",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0035",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0036",
@@ -3043,16 +2796,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0041",
             "name": "Other European Language (non-national)",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0041",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0042",
@@ -3086,16 +2834,11 @@
             "unit": "Person"
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0047",
             "name": "West/Central Asian Language",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0047",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0048",
@@ -3129,16 +2872,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0053",
             "name": "South Asian Language",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0053",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0054",
@@ -3220,16 +2958,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0067",
             "name": "East Asian Language",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0067",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0068",
@@ -3305,16 +3038,11 @@
             "unit": "Person"
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0080",
             "name": "Caribbean Creole",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0080",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0081",
@@ -3330,16 +3058,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0083",
             "name": "African Language",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0083",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0084",
@@ -3433,16 +3156,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0099",
             "name": "Other Languages",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0099",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0100",
@@ -3452,16 +3170,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS204EW0101",
             "name": "Sign Language",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS204EW0101",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS204EW0102",
@@ -3634,16 +3347,11 @@
             "unit": "Person"
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS210EW0008",
             "name": "Other religion",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS210EW0008",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS210EW0009",
@@ -3893,16 +3601,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS210EW0050",
             "name": "No religion",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS210EW0050",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS210EW0051",
@@ -5621,27 +5324,17 @@
         "unit": "All usual residents in households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS401EW0002",
             "name": "Unshared dwelling",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS401EW0002",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS401EW0003",
                 "name": "Whole house or bungalow",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS401EW0003",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS401EW0004",
@@ -5663,16 +5356,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS401EW0007",
                 "name": "Flat, maisonette or apartment",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS401EW0007",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS401EW0008",
@@ -5716,27 +5404,17 @@
         "unit": "All households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS402EW0002",
             "name": "Unshared dwelling",
             "unit": "Household",
             "children": [
               {
-                "type": "radio",
-                "code": "QS402EW0002",
-                "name": "Total",
-                "unit": "Household"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS402EW0003",
                 "name": "Whole house or bungalow",
                 "unit": "Household",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS402EW0003",
-                    "name": "Total",
-                    "unit": "Household"
-                  },
                   {
                     "type": "radio",
                     "code": "QS402EW0004",
@@ -5758,16 +5436,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS402EW0007",
                 "name": "Flat, maisonette or apartment",
                 "unit": "Household",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS402EW0007",
-                    "name": "Total",
-                    "unit": "Household"
-                  },
                   {
                     "type": "radio",
                     "code": "QS402EW0008",
@@ -5811,16 +5484,11 @@
         "unit": "All usual residents in households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS403EW0002",
             "name": "Owned",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS403EW0002",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS403EW0003",
@@ -5842,16 +5510,11 @@
             "unit": "Person"
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS403EW0006",
             "name": "Social rented",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS403EW0006",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS403EW0007",
@@ -5867,16 +5530,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS403EW0009",
             "name": "Private rented",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS403EW0009",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS403EW0010",
@@ -5962,16 +5620,11 @@
         "unit": "All households",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS405EW0002",
             "name": "Owned",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS405EW0002",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS405EW0003",
@@ -5993,16 +5646,11 @@
             "unit": "Household"
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS405EW0006",
             "name": "Social rented",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS405EW0006",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS405EW0007",
@@ -6018,16 +5666,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS405EW0009",
             "name": "Private rented",
             "unit": "Household",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS405EW0009",
-                "name": "Total",
-                "unit": "Household"
-              },
               {
                 "type": "radio",
                 "code": "QS405EW0010",
@@ -6589,27 +6232,17 @@
         "unit": "All communal establishments",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS420EW0002",
             "name": "Medical and care establishment",
             "unit": "Communal establishment",
             "children": [
               {
-                "type": "radio",
-                "code": "QS420EW0002",
-                "name": "Total",
-                "unit": "Communal establishment"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS420EW0003",
                 "name": "NHS",
                 "unit": "Communal establishment",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS420EW0003",
-                    "name": "Total",
-                    "unit": "Communal establishment"
-                  },
                   {
                     "type": "radio",
                     "code": "QS420EW0004",
@@ -6631,16 +6264,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS420EW0007",
                 "name": "Local Authority",
                 "unit": "Communal establishment",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS420EW0007",
-                    "name": "Total",
-                    "unit": "Communal establishment"
-                  },
                   {
                     "type": "radio",
                     "code": "QS420EW0008",
@@ -6668,16 +6296,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS420EW0012",
                 "name": "Registered Social Landlord/Housing Association",
                 "unit": "Communal establishment",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS420EW0012",
-                    "name": "Total",
-                    "unit": "Communal establishment"
-                  },
                   {
                     "type": "radio",
                     "code": "QS420EW0013",
@@ -6693,16 +6316,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS420EW0015",
                 "name": "Other",
                 "unit": "Communal establishment",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS420EW0015",
-                    "name": "Total",
-                    "unit": "Communal establishment"
-                  },
                   {
                     "type": "radio",
                     "code": "QS420EW0016",
@@ -6744,16 +6362,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS420EW0022",
             "name": "Other establishment",
             "unit": "Communal establishment",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS420EW0022",
-                "name": "Total",
-                "unit": "Communal establishment"
-              },
               {
                 "type": "radio",
                 "code": "QS420EW0023",
@@ -6837,27 +6450,17 @@
         "unit": "All usual residents in communal establishments",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS421EW0002",
             "name": "Medical and care establishment",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS421EW0002",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS421EW0003",
                 "name": "NHS",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS421EW0003",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS421EW0004",
@@ -6879,16 +6482,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS421EW0007",
                 "name": "Local Authority",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS421EW0007",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS421EW0008",
@@ -6916,16 +6514,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS421EW0012",
                 "name": "Registered Social Landlord/Housing Association",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS421EW0012",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS421EW0013",
@@ -6941,16 +6534,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS421EW0015",
                 "name": "Other",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS421EW0015",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS421EW0016",
@@ -6992,16 +6580,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS421EW0022",
             "name": "Other establishment",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS421EW0022",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS421EW0023",
@@ -7241,16 +6824,11 @@
         "unit": "All usual residents aged 16 to 74",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS601EW0002",
             "name": "Economically active",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS601EW0002",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "group",
                 "name": "Employee",
@@ -7323,16 +6901,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS601EW0011",
             "name": "Economically inactive",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS601EW0011",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS601EW0012",
@@ -7374,16 +6947,11 @@
         "unit": "All Household Reference Persons",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS602EW0002",
             "name": "Economically active",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS602EW0002",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "group",
                 "name": "Employee",
@@ -7456,16 +7024,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS602EW0011",
             "name": "Economically inactive",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS602EW0011",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS602EW0012",
@@ -7547,16 +7110,11 @@
         "unit": "All usual residents aged 16 to 74 in employment the week before the census",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS604EW0002",
             "name": "Part-time",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS604EW0002",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS604EW0003",
@@ -7572,16 +7130,11 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS604EW0005",
             "name": "Full-time",
             "unit": "Person",
             "children": [
-              {
-                "type": "radio",
-                "code": "QS604EW0005",
-                "name": "Total",
-                "unit": "Person"
-              },
               {
                 "type": "radio",
                 "code": "QS604EW0006",
@@ -7810,27 +7363,17 @@
         "unit": "All usual residents aged 16 to 74 in employment the week before the census",
         "children": [
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS606EW0002",
             "name": "Managers, directors and senior officials",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS606EW0002",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0003",
                 "name": "Corporate managers and directors",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0003",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0004",
@@ -7882,16 +7425,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0012",
                 "name": "Other managers and proprietors",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0012",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0013",
@@ -7921,27 +7459,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS606EW0017",
             "name": "Professional occupations",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS606EW0017",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0018",
                 "name": "Science, research, engineering and technology professionals",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0018",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0019",
@@ -7975,16 +7503,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0024",
                 "name": "Health professionals",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0024",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0025",
@@ -8006,16 +7529,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0028",
                 "name": "Teaching and educational professionals",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0028",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0029",
@@ -8025,16 +7543,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0030",
                 "name": "Business, media and public service professionals",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0030",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0031",
@@ -8082,27 +7595,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS606EW0038",
             "name": "Associate professional and technical occupations",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS606EW0038",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0039",
                 "name": "Science, engineering and technology associate professionals",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0039",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0040",
@@ -8124,16 +7627,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0043",
                 "name": "Health and social care associate professionals",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0043",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0044",
@@ -8149,16 +7647,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0046",
                 "name": "Protective service occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0046",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0047",
@@ -8168,16 +7661,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0048",
                 "name": "Culture, media and sports occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0048",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0049",
@@ -8199,16 +7687,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0052",
                 "name": "Business and public service associate professionals",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0052",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0053",
@@ -8250,27 +7733,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS606EW0059",
             "name": "Administrative and secretarial occupations",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS606EW0059",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0060",
                 "name": "Administrative occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0060",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0061",
@@ -8304,16 +7777,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0066",
                 "name": "Secretarial and related occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0066",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0067",
@@ -8325,27 +7793,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS606EW0068",
             "name": "Skilled trades occupations",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS606EW0068",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0069",
                 "name": "Skilled agricultural and related trades",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0069",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0070",
@@ -8355,16 +7813,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0071",
                 "name": "Skilled metal, electrical and electronic trades",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0071",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0072",
@@ -8398,16 +7851,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0077",
                 "name": "Skilled construction and building trades",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0077",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0078",
@@ -8429,16 +7877,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0081",
                 "name": "Textiles, printing and other skilled trades",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0081",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0082",
@@ -8468,27 +7911,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS606EW0086",
             "name": "Caring, leisure and other service occupations",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS606EW0086",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0087",
                 "name": "Caring personal service occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0087",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0088",
@@ -8510,16 +7943,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0091",
                 "name": "Leisure, travel and related personal service occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0091",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0092",
@@ -8549,27 +7977,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS606EW0096",
             "name": "Sales and customer service occupations",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS606EW0096",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0097",
                 "name": "Sales occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0097",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0098",
@@ -8591,16 +8009,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0101",
                 "name": "Customer service occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0101",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0102",
@@ -8618,27 +8031,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS606EW0104",
             "name": "Process, plant and machine operatives",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS606EW0104",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0105",
                 "name": "Process, plant and machine operatives",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0105",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0106",
@@ -8666,16 +8069,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0110",
                 "name": "Transport and mobile machine drivers and operatives",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0110",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0111",
@@ -8699,27 +8097,17 @@
             ]
           },
           {
-            "type": "group",
+            "type": "group-radio",
+            "code": "QS606EW0114",
             "name": "Elementary occupations",
             "unit": "Person",
             "children": [
               {
-                "type": "radio",
-                "code": "QS606EW0114",
-                "name": "Total",
-                "unit": "Person"
-              },
-              {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0115",
                 "name": "Elementary trades and related occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0115",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0116",
@@ -8741,16 +8129,11 @@
                 ]
               },
               {
-                "type": "group",
+                "type": "group-radio",
+                "code": "QS606EW0119",
                 "name": "Elementary administration and service occupations",
                 "unit": "Person",
                 "children": [
-                  {
-                    "type": "radio",
-                    "code": "QS606EW0119",
-                    "name": "Total",
-                    "unit": "Person"
-                  },
                   {
                     "type": "radio",
                     "code": "QS606EW0120",
@@ -10166,17 +9549,10 @@
             "unit": "Person"
           },
           {
-            "type": "group",
+            "type": "radio",
+            "code": "QS612EW0003",
             "name": "Not in employment",
-            "unit": "Person",
-            "children": [
-              {
-                "type": "radio",
-                "code": "QS612EW0003",
-                "name": "Total",
-                "unit": "Person"
-              }
-            ]
+            "unit": "Person"
           },
           {
             "type": "radio",
