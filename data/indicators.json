@@ -1948,12 +1948,12 @@
   {
     "type": "group",
     "code": "QS2",
-    "nomis": "NM_522_1.data.csv?date=latest&rural_urban=0&measures=20100&select=geography_code,c_ethnicid,obs_value&rows=geography_code&cols=c_ethnicid&c_ethnicid=0,",
     "name": "Origins & Beliefs",
     "children": [
       {
         "type": "group",  
         "code": "QS201EW",
+        "nomis": "NM_522_1.data.csv?date=latest&rural_urban=0&measures=20100&select=geography_code,c_ethnicid,obs_value&rows=geography_code&cols=c_ethnicid&c_ethnicid=0,",
         "name": "Ethnic group",
         "unit": "All usual residents",
         "children": [
